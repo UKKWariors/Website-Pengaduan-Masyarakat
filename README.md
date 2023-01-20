@@ -31,9 +31,11 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 
 
 # Caranya buat kontribusi 
-1. Pilih `Contribute`
+1. Pilih `Contribute / Compare & Pull Request`
 
 ![IMG_20230120_154645](https://user-images.githubusercontent.com/50316075/213654461-aed01793-d706-4b8e-9f67-c39551d2355a.jpg)
+
+![IMG_20230120_162304](https://user-images.githubusercontent.com/50316075/213660483-8863fd56-2980-4285-966d-70075d4e87f9.jpg)
 
 2. Pilih `Open Pull Request`
 
