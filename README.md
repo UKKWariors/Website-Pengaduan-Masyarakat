@@ -7,3 +7,8 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 2. Coding dulu di VSCode
 3. Klo dan fix langsung push ke Fork tadi
 4. Klo dah yakin langsung Compare & Pull Request ke sini
+- Pilih `Contribute`
+
+- Pilih `Open Pull Request`
+
+- Pilih `Create Pull Request`
