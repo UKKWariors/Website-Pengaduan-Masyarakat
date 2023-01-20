@@ -6,7 +6,7 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 - [Klik disini mas bro buat ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/fork)
 2. Coding dulu di VSCode
 3. Klo dan fix langsung push ke Fork tadi
-4. Klo dah yakin langsung Compare & Pull Request ke sini. ***Caranya ?***
+4. Klo dah yakin langsung Compare & Pull Request ke sini. ***Caranya ?*** Baca dlu ae sekalian pahami 
 
 # Cara terbaik buat kontribusi
 1. Jangan lupa selalu `Sync Fork` biar Up to Date
