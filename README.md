@@ -1,9 +1,9 @@
 # *Daftar Isi*
-- [Pengertian](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/README.md#projects-ukk-rpl)
-- [Cara Penggunaan](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/README.md#cara-penggunaan)
-- [Cara Ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/README.md#cara-ngefork)
-- [Cara Terbaik Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/README.md#cara-terbaik-buat-kontribusi)
-- [Caranya Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/README.md#caranya-buat-kontribusi)
+- [Pengertian](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#projects-ukk-rpl)
+- [Cara Penggunaan](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-penggunaan)
+- [Cara Ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-ngefork)
+- [Cara Terbaik Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-terbaik-buat-kontribusi)
+- [Caranya Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#caranya-buat-kontribusi)
 
 # Projects UKK RPL
 Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` buat tahun ini ╮⁠(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠╭
