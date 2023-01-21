@@ -8,6 +8,16 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 3. Klo dan fix langsung push ke Fork tadi
 4. Klo dah yakin langsung Compare & Pull Request ke sini. ***Caranya ?*** Baca dlu ae sekalian pahami 
 
+# Cara ngefork
+1. Klik disini
+
+![IMG_20230121_155942](https://user-images.githubusercontent.com/50316075/213859977-adf7bc4a-db62-4a01-943d-6e5bd41dcc19.jpg)
+
+2. Langsung klik `Create Fork`
+
+![IMG_20230121_155957](https://user-images.githubusercontent.com/50316075/213859971-46b7bb88-9aab-4680-a896-a16c4d060e9f.jpg)
+
+
 # Cara terbaik buat kontribusi
 1. Jangan lupa selalu `Sync Fork` biar Up to Date
 
