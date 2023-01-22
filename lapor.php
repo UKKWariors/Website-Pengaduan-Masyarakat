@@ -1,9 +1,4 @@
 <?php
-# @Author: Wahid Ari <wahidari>
-# @Date:   8 January, 5:05
-# @Copyright: (c) wahidari 2017
-?>
-<?php
     require_once("private/database.php");
     $statement = $db->query("SELECT id FROM `laporan` ORDER BY id DESC LIMIT 1");
     // $cekk = $statement->fetch(PDO::FETCH_ASSOC);
