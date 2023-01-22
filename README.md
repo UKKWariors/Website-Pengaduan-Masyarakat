@@ -1,9 +1,15 @@
 # *Daftar Isi*
+- [Status](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#status)
 - [Pengertian](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#projects-ukk-rpl)
 - [Cara Penggunaan](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-penggunaan)
 - [Cara Ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-ngefork)
 - [Cara Terbaik Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-terbaik-buat-kontribusi)
 - [Caranya Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#caranya-buat-kontribusi)
+
+# Status
+| Nama | Status |
+| --- | --- |
+| CodeQL | [![CodeQL](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/actions/workflows/codeql.yml/badge.svg)](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/actions/workflows/codeql.yml) |
 
 # Projects UKK RPL
 Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` buat tahun ini ╮⁠(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠╭
