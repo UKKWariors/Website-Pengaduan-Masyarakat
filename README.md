@@ -67,3 +67,22 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 3. Pilih `Create Pull Request`
 
 ![IMG_20230120_154734](https://user-images.githubusercontent.com/50316075/213654481-19879235-c4db-408b-b8d9-62365623e2ce.jpg)
+
+4. Done
+
+# Struktur Organisasi UKKWarriors
+
+```console
+Ketua (@Akinazee)
+├── Projects Maker
+│   ├── UI / UX Editor
+│   │   └── @VansDav
+│   ├── Database Mastering
+│   │   └── @KenzienID
+│   ├── Website Remaker
+│   │   └── @ckckckcz
+│   └── Beta Tester 
+│       └── @TheKingTermux @KenzienID
+│
+└── Proyek Done
+```
