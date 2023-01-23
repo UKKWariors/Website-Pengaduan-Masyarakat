@@ -83,7 +83,7 @@ Ketua (@Akinazee)
 │   ├── Website Remaker
 │   │   └── @ckckckcz
 │   └── Beta Tester 
-│       └── @TheKingTermux @KenzienID
+│        └── @TheKingTermux @KenzienID
 │
 └── Proyek Done
 ```
