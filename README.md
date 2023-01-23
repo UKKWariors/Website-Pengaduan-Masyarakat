@@ -5,6 +5,7 @@
 - [Cara Ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-ngefork)
 - [Cara Terbaik Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-terbaik-buat-kontribusi)
 - [Caranya Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#caranya-buat-kontribusi)
+- [Struktur Organisasi UKKWarriors](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#struktur-organisasi-ukkwariors)
 
 # Status
 | Nama | Status |
