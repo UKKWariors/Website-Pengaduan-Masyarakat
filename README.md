@@ -74,16 +74,29 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 # Struktur Organisasi UKKWarriors
 
 ```console
-Ketua (@Akinazee)
+CEO (@Akinazee)
 ├── Projects Maker
 │   ├── UI / UX Editor
 │   │   └── @VansDav
 │   ├── Database Mastering
 │   │   └── @KenzienID
+│   ├── Main Idea
+│   │   └── @ckckckcz @TheKingTermux @KenzienID
 │   ├── Website Remaker
 │   │   └── @ckckckcz
+│   ├── Help Desk
+│   │   └── @ckckckcz @TheKingTermux @VansDav
+│   ├── Projects Manager 
+│   │   └── @ckckckcz @Akinazee @VansDav
+│   ├── Security
+│   │   └── @ckckckcz @KenzienID
+│   ├── Debugging
+│   │   └── @ckckckcz @TheKingTermux @KenzienID
 │   └── Beta Tester 
 │        └── @TheKingTermux @KenzienID
-│
-└── Proyek Done
+│             └── ACC Projects
+└─ CEO Approval ──┘
+         ││
+    Projects Done
+#NOTE: Struktur dapat berubah sewaktu - waktu 
 ```
