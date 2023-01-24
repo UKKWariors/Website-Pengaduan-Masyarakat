@@ -97,10 +97,10 @@ CEO (@Akinazee)
 │   └── Alpha Tester 
 │        └── @TheKingTermux @KenzienID @ckckckcz
 │             └── Beta Tester 
-│                   └── @TheKingTermux @KenzienID
-│                        └── ACC Projects                           
-└────  CEO Approval  ────┘
-               ││
-          Projects Done
+│                  └── @TheKingTermux @KenzienID
+│                       └── ACC Projects                           
+└──── CEO  Approval ────┘
+              ││
+         Projects Done
 #NOTE: Struktur dapat berubah sewaktu - waktu 
 ```
