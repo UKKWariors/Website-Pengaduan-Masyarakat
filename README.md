@@ -81,11 +81,11 @@ CEO (@Akinazee)
 │   ├── Database Mastering
 │   │   └── @KenzienID
 │   ├── Main Idea
-│   │   └── @ckckckcz @TheKingTermux @KenzienID
+│   │   └── @TheKingTermux @KenzienID
 │   ├── Website Remaker
-│   │   └── @ckckckcz
+│   │   └── @Akinazee
 │   ├── Website Development 
-│   │   └── @ckckckcz
+│   │   └── @ckckckcz @Akinazee
 │   ├── Help Desk
 │   │   └── @ckckckcz @TheKingTermux @VansDav
 │   ├── Projects Manager 
@@ -95,7 +95,7 @@ CEO (@Akinazee)
 │   ├── Debugging
 │   │   └── @ckckckcz @TheKingTermux @KenzienID
 │   └── Beta Tester 
-│        └── @TheKingTermux @KenzienID
+│        └── @TheKingTermux @KenzienID @ckckckcz
 │             └── ACC Projects
 └─ CEO Approval ──┘
          ││
