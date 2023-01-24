@@ -83,7 +83,7 @@ CEO (@Akinazee)
 │   ├── Main Idea
 │   │   └── @TheKingTermux @KenzienID
 │   ├── Website Remaker
-│   │   └── @Akinazee
+│   │   └── @Akinazee @VansDav
 │   ├── Website Development 
 │   │   └── @ckckckcz @Akinazee
 │   ├── Help Desk
@@ -91,14 +91,16 @@ CEO (@Akinazee)
 │   ├── Projects Manager 
 │   │   └── @ckckckcz @Akinazee @VansDav
 │   ├── Security
-│   │   └── @ckckckcz @KenzienID
+│   │   └── @ckckckcz @KenzienID 
 │   ├── Debugging
 │   │   └── @ckckckcz @TheKingTermux @KenzienID
-│   └── Beta Tester 
+│   └── Alpha Tester 
 │        └── @TheKingTermux @KenzienID @ckckckcz
-│             └── ACC Projects
-└─ CEO Approval ──┘
-         ││
-    Projects Done
+│             └── Beta Tester 
+│                   └── @TheKingTermux @KenzienID
+│                        └── ACC Projects                           
+└────  CEO Approval  ────┘
+               ││
+          Projects Done
 #NOTE: Struktur dapat berubah sewaktu - waktu 
 ```
