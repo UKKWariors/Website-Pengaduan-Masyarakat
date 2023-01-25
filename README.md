@@ -75,7 +75,11 @@ Disini tempatnya projects UKK tentang `Pembuatan Website Pengaduan Masyarakat` b
 
 ```console
 CEO (@Akinazee)
-├── Projects Maker
+├── Chief Officer
+│   └── @Keisukenimb
+├── Projects Manager
+│   └── @Keisukenimb @ckckckcz @Akinazee @VansDav
+├── Division
 │   ├── UI / UX Editor
 │   │   └── @VansDav
 │   ├── Database Mastering
@@ -88,8 +92,6 @@ CEO (@Akinazee)
 │   │   └── @ckckckcz @Akinazee
 │   ├── Help Desk
 │   │   └── @ckckckcz @TheKingTermux @VansDav
-│   ├── Projects Manager 
-│   │   └── @ckckckcz @Akinazee @VansDav
 │   ├── Security
 │   │   └── @ckckckcz @KenzienID 
 │   ├── Debugging
