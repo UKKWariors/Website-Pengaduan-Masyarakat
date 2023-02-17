@@ -1,5 +1,5 @@
-ErrorDocument 404 ../user/public/error.html
-ErrorDocument 401 ../user/public/error.html
+ErrorDocument 404 ../error.html
+ErrorDocument 401 ../error.html
 
 <IfModule mod_rewrite.c>
 RewriteEngine on
