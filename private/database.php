@@ -1,9 +1,4 @@
 <?php
-# @Author: Wahid Ari <wahidari>
-# @Date:   8 January, 5:05
-# @Copyright: (c) wahidari 2017
-?>
-<?php
 
 $db_host = "localhost";
 $db_user = "root";
