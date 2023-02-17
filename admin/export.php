@@ -1,6 +1,3 @@
-<!-- # @Author: Wahid Ari <wahidari>
-# @Date:   8 January 2018, 5:05
-# @Copyright: (c) wahidari 2018 -->
 <?php
 require_once("database.php");
 require_once("auth.php"); // Session
