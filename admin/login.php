@@ -1,4 +1,3 @@
-
 <?php
     require_once("database.php");
     // Proses dari form login
