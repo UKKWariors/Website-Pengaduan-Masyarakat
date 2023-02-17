@@ -1,10 +1,4 @@
 <?php
-# @Author: Wahid Ari <wahidari>
-# @Date:   8 January, 5:05
-# @Copyright: (c) wahidari 2017
-?>
-
-<?php
 	session_start();
 	require_once("database.php");
 	header("Location: ../index?status=success");
