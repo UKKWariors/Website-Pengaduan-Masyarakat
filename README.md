@@ -1,11 +1,11 @@
 # *Daftar Isi*
-- [Status](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#status)
-- [Pengertian](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#projects-ukk-rpl)
-- [Cara Penggunaan](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-penggunaan)
-- [Cara Ngefork](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-ngefork)
-- [Cara Terbaik Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#cara-terbaik-buat-kontribusi)
-- [Caranya Buat Kontribusi](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#caranya-buat-kontribusi)
-- [Struktur Organisasi UKKWarriors](https://github.com/UKKWariors/Website-Pengaduan-Masyarakat/blob/main/README.md#struktur-organisasi-ukkwarriors)
+- [Status](#status)
+- [Pengertian](#projects-ukk-rpl)
+- [Cara Penggunaan](#cara-penggunaan)
+- [Cara Ngefork](#cara-ngefork)
+- [Cara Terbaik Buat Kontribusi](#cara-terbaik-buat-kontribusi)
+- [Caranya Buat Kontribusi](#caranya-buat-kontribusi)
+- [Struktur Organisasi UKKWarriors](#struktur-organisasi-ukkwarriors)
 
 # Status
 | Nama | Status |
