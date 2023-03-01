@@ -1,3 +1,7 @@
+<h1>DISCONTINUED</h1>
+
+[Dipindah kan ke sini](https://github.com/UKKWariors/Website-Pemngaduan-Masyarakat-Remake)
+
 # *Daftar Isi*
 - [Status](#status)
 - [Pengertian](#projects-ukk-rpl)
