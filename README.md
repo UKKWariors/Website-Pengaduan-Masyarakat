@@ -9,31 +9,32 @@ CEO (@Akinazee)
 ├── Chief Officer
 │   └── @Keisukenimb
 │        └── Projects Manager
-│             └── @Keisukenimb @ckckckcz @Akinazee @VansDav
+│             └── @Keisukenimb @ckckckcz (solo) @Akinazee @VansDav
 │                  └── Division
 │                       ├── UI / UX Editor
-│                       │   └── @VansDav
+│                       │   └── @TheKingTermux @VansDav
 │                       ├── Database Mastering
-│                       │   └── @KenzienID
+│                       │   └── @TheKingTermux @KenzienID
 │                       ├── Main Idea
 │                       │   └── @TheKingTermux @KenzienID
 │                       ├── Website Remaker
-│                       │   └── @Akinazee @VansDav
+│                       │   └── @TheKingTermux @Akinazee @VansDav
 │                       ├── Website Development 
-│                       │   └── @ckckckcz @Akinazee
+│                       │   └── @TheKingTermux @ckckckcz (solo) @Akinazee
 │                       ├── Help Desk
-│                       │   └── @ckckckcz @TheKingTermux @VansDav
+│                       │   └── @ckckckcz (solo) @TheKingTermux @VansDav
 │                       ├── Security
-│                       │   └── @ckckckcz @KenzienID 
+│                       │   └── @TheKingTermux @ckckckcz (solo) @KenzienID 
 │                       ├── Debugging
-│                       │   └── @ckckckcz @TheKingTermux @KenzienID
+│                       │   └── @ckckckcz (solo) @TheKingTermux @KenzienID
 │                       └── Alpha Tester 
-│                            └── @TheKingTermux @KenzienID @ckckckcz
+│                            └── @TheKingTermux @KenzienID @ckckckcz (solo)
 │                                 └── Beta Tester 
 │                                      └── @TheKingTermux @KenzienID @Keisukenimb
 │                                           └── ACC Projects                           
 └────────── CEO  Approval ──────────┘
                         ││
                    Projects Done
-#NOTE: Struktur dapat berubah sewaktu - waktu 
+#NOTE 1: Struktur dapat berubah sewaktu - waktu
+#NOTE 2 : Jika ada tambahan (solo) di belakang @nama, maka artinya dia itu buat web sendiri
 ```
